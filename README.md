@@ -3,7 +3,7 @@
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
-Docker image (Stretch) containing NodeJS 10.x, npm, Serverless Framework.
+Docker image (Stretch) containing NodeJS 12.x, npm, Serverless Framework.
 
 ### Notice
 
