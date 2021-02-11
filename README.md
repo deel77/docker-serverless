@@ -3,8 +3,8 @@
 
 [![serverless](http://public.serverless.com/badges/v3.svg)](http://www.serverless.com)
 
-Docker image (Stretch) containing NodeJS 12.x, npm, Serverless Framework.
+Docker image (Slim) containing NodeJS 14.x, npm, AWS CLI, Serverless Framework v2.
 
 ### Notice
 
-Heavily inspired by [amaysim/serverless](https://github.com/amaysim-au/docker-serverless) just it did not include npm package manager and stretch dist. 
+Heavily inspired by [amaysim/serverless](https://github.com/amaysim-au/docker-serverless) just it did not include npm package manager and using slim dist. 
